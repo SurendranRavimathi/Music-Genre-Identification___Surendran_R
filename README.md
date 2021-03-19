@@ -72,4 +72,3 @@ The data  set consist of audio files for songs of following genre
 
 
 
-# Music-Genre-Identification___Surendran_R

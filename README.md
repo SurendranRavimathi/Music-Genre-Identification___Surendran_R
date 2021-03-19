@@ -53,19 +53,19 @@ The data  set consist of audio files for songs of following genre
 
 
 
-## 1. resnet34
+### 1. resnet34
 
 
 
-## **Error_rate :** 0.312500 (resnet34)
+### **Error_rate :** 0.312500 (resnet34)
 
-## 2.VGG19
+### 2.VGG19
 
-## **Error_rate :** 0.287500 (vgg19)
+### **Error_rate :** 0.287500 (vgg19)
 
-## 3.resnet152
+### 3.resnet152
 
-## **Error_rate :** 0.262500 (resnet152)
+### **Error_rate :** 0.262500 (resnet152)
 
 
 
